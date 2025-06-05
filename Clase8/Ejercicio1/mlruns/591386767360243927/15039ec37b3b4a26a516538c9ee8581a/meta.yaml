@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/DMC/Machine%20Learning%20Engineer/DMC_ML_ENG/Clase8/Ejercicio1/mlruns/591386767360243927/15039ec37b3b4a26a516538c9ee8581a/artifacts
+end_time: 1748916528544
+entry_point_name: ''
+experiment_id: '591386767360243927'
+lifecycle_stage: active
+run_id: 15039ec37b3b4a26a516538c9ee8581a
+run_name: Light Gradient Boosting Machine
+run_uuid: 15039ec37b3b4a26a516538c9ee8581a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748916528004
+status: 3
+tags: []
+user_id: User

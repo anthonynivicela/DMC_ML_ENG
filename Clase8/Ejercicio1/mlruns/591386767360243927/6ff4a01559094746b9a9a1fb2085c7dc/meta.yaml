@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/DMC/Machine%20Learning%20Engineer/DMC_ML_ENG/Clase8/Ejercicio1/mlruns/591386767360243927/6ff4a01559094746b9a9a1fb2085c7dc/artifacts
+end_time: 1748916530569
+entry_point_name: ''
+experiment_id: '591386767360243927'
+lifecycle_stage: active
+run_id: 6ff4a01559094746b9a9a1fb2085c7dc
+run_name: Quadratic Discriminant Analysis
+run_uuid: 6ff4a01559094746b9a9a1fb2085c7dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748916530161
+status: 3
+tags: []
+user_id: User

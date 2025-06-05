@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/DMC/Machine%20Learning%20Engineer/DMC_ML_ENG/Clase8/Ejercicio1/mlruns/591386767360243927/064d5a8dd3b84517a9edb50e79e533ef/artifacts
+end_time: 1748916527806
+entry_point_name: ''
+experiment_id: '591386767360243927'
+lifecycle_stage: active
+run_id: 064d5a8dd3b84517a9edb50e79e533ef
+run_name: Gradient Boosting Classifier
+run_uuid: 064d5a8dd3b84517a9edb50e79e533ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748916527326
+status: 3
+tags: []
+user_id: User

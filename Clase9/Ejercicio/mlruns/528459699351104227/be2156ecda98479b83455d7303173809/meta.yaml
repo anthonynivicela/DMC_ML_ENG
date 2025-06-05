@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/DMC/Machine%20Learning%20Engineer/DMC_ML_ENG/Clase9/Ejercicio/mlruns/528459699351104227/be2156ecda98479b83455d7303173809/artifacts
+end_time: 1749091276377
+entry_point_name: ''
+experiment_id: '528459699351104227'
+lifecycle_stage: active
+run_id: be2156ecda98479b83455d7303173809
+run_name: SVM - Linear Kernel
+run_uuid: be2156ecda98479b83455d7303173809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749091275884
+status: 3
+tags: []
+user_id: User

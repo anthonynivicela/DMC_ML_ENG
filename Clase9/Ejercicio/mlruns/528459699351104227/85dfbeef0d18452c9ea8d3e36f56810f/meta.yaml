@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/DMC/Machine%20Learning%20Engineer/DMC_ML_ENG/Clase9/Ejercicio/mlruns/528459699351104227/85dfbeef0d18452c9ea8d3e36f56810f/artifacts
+end_time: 1749092051812
+entry_point_name: ''
+experiment_id: '528459699351104227'
+lifecycle_stage: active
+run_id: 85dfbeef0d18452c9ea8d3e36f56810f
+run_name: K Neighbors Classifier
+run_uuid: 85dfbeef0d18452c9ea8d3e36f56810f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749092051338
+status: 3
+tags: []
+user_id: User

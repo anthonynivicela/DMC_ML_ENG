@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/DMC/Machine%20Learning%20Engineer/DMC_ML_ENG/Clase9/Ejercicio/mlruns/528459699351104227/c6b5a30fe59f49cbb0cf3e44eca6d44e/artifacts
+end_time: 1749091286136
+entry_point_name: ''
+experiment_id: '528459699351104227'
+lifecycle_stage: active
+run_id: c6b5a30fe59f49cbb0cf3e44eca6d44e
+run_name: Session Initialized 003a
+run_uuid: c6b5a30fe59f49cbb0cf3e44eca6d44e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749091243590
+status: 3
+tags: []
+user_id: User

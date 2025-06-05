@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/DMC/Machine%20Learning%20Engineer/DMC_ML_ENG/Clase8/Ejercicio1/mlruns/591386767360243927/21fc984db1184221a08121f2a85b9eb8/artifacts
+end_time: 1748916524572
+entry_point_name: ''
+experiment_id: '591386767360243927'
+lifecycle_stage: active
+run_id: 21fc984db1184221a08121f2a85b9eb8
+run_name: Ridge Classifier
+run_uuid: 21fc984db1184221a08121f2a85b9eb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748916524241
+status: 3
+tags: []
+user_id: User

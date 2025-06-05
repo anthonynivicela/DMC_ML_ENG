@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/DMC/Machine%20Learning%20Engineer/DMC_ML_ENG/Clase9/Ejercicio/mlruns/528459699351104227/69482114cd9741ebbaed4c4f8bb52be9/artifacts
+end_time: 1749092044421
+entry_point_name: ''
+experiment_id: '528459699351104227'
+lifecycle_stage: active
+run_id: 69482114cd9741ebbaed4c4f8bb52be9
+run_name: Naive Bayes
+run_uuid: 69482114cd9741ebbaed4c4f8bb52be9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749092042303
+status: 3
+tags: []
+user_id: User

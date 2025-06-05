@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/DMC/Machine%20Learning%20Engineer/DMC_ML_ENG/Clase8/Ejercicio1/mlruns/591386767360243927/08ada49bb3b5444ca2473254c010d68b/artifacts
+end_time: 1748916538054
+entry_point_name: ''
+experiment_id: '591386767360243927'
+lifecycle_stage: active
+run_id: 08ada49bb3b5444ca2473254c010d68b
+run_name: Logistic Regression
+run_uuid: 08ada49bb3b5444ca2473254c010d68b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748916535895
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/DMC/Machine%20Learning%20Engineer/DMC_ML_ENG/Clase8/Ejercicio1/mlruns/591386767360243927/5c84878788f945b8a6bc2237508fc299/artifacts
+end_time: 1748916526741
+entry_point_name: ''
+experiment_id: '591386767360243927'
+lifecycle_stage: active
+run_id: 5c84878788f945b8a6bc2237508fc299
+run_name: Extra Trees Classifier
+run_uuid: 5c84878788f945b8a6bc2237508fc299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748916526313
+status: 3
+tags: []
+user_id: User

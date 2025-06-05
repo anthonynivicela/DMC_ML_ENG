@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/DMC/Machine%20Learning%20Engineer/DMC_ML_ENG/Clase8/Ejercicio1/mlruns/591386767360243927/280e479f0c904198b2721c7e59f86764/artifacts
+end_time: 1748916525239
+entry_point_name: ''
+experiment_id: '591386767360243927'
+lifecycle_stage: active
+run_id: 280e479f0c904198b2721c7e59f86764
+run_name: Random Forest Classifier
+run_uuid: 280e479f0c904198b2721c7e59f86764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748916524670
+status: 3
+tags: []
+user_id: User

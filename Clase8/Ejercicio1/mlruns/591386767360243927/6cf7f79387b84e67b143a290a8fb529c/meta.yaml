@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/DMC/Machine%20Learning%20Engineer/DMC_ML_ENG/Clase8/Ejercicio1/mlruns/591386767360243927/6cf7f79387b84e67b143a290a8fb529c/artifacts
+end_time: 1748916529551
+entry_point_name: ''
+experiment_id: '591386767360243927'
+lifecycle_stage: active
+run_id: 6cf7f79387b84e67b143a290a8fb529c
+run_name: Decision Tree Classifier
+run_uuid: 6cf7f79387b84e67b143a290a8fb529c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748916529195
+status: 3
+tags: []
+user_id: User

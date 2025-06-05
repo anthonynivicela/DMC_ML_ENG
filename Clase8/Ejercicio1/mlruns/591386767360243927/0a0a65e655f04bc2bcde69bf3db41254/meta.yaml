@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/DMC/Machine%20Learning%20Engineer/DMC_ML_ENG/Clase8/Ejercicio1/mlruns/591386767360243927/0a0a65e655f04bc2bcde69bf3db41254/artifacts
+end_time: 1748916527244
+entry_point_name: ''
+experiment_id: '591386767360243927'
+lifecycle_stage: active
+run_id: 0a0a65e655f04bc2bcde69bf3db41254
+run_name: Ada Boost Classifier
+run_uuid: 0a0a65e655f04bc2bcde69bf3db41254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748916526833
+status: 3
+tags: []
+user_id: User
