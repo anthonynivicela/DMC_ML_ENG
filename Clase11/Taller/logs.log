@@ -1612,3 +1612,47 @@ _catboost.CatBoostError: There is no trained model to use get_all_params(). Use 
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
 2025-06-11 22:09:43,959:INFO:Initializing load_model()
 2025-06-11 22:09:43,960:INFO:load_model(model_name=credit_model, platform=None, authentication=None, verbose=True)
+2025-06-11 22:10:54,092:INFO:Initializing predict_model()
+2025-06-11 22:10:54,092:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001FF36252090>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'monthly_income_usd',
+                                             'app_usage_score',
+                                             'digital_profile_strength',
+                                             'num_contacts_uploaded',
+                                             'political_event_last_month'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['residence_risk_zone'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['residence_risk_zone'],
+                                    transformer=OneHotEncoder(cols=['residence_risk_zone'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('trained_model', AdaBoostClassifier(random_state=606))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001FF383331A0>)
+2025-06-11 22:10:54,092:INFO:Checking exceptions
+2025-06-11 22:10:54,092:INFO:Preloading libraries
+2025-06-11 22:10:54,093:INFO:Set up data.
+2025-06-11 22:10:54,096:INFO:Set up index.
+2025-06-11 22:12:34,197:INFO:Initializing predict_model()
+2025-06-11 22:12:34,197:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001FF38248490>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'monthly_income_usd',
+                                             'app_usage_score',
+                                             'digital_profile_strength',
+                                             'num_contacts_uploaded',
+                                             'political_event_last_month'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['residence_risk_zone'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['residence_risk_zone'],
+                                    transformer=OneHotEncoder(cols=['residence_risk_zone'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('trained_model', AdaBoostClassifier(random_state=606))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001FF37F236A0>)
+2025-06-11 22:12:34,197:INFO:Checking exceptions
+2025-06-11 22:12:34,197:INFO:Preloading libraries
+2025-06-11 22:12:34,197:INFO:Set up data.
+2025-06-11 22:12:34,199:INFO:Set up index.
