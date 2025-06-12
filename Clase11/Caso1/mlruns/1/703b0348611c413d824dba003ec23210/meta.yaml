@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/703b0348611c413d824dba003ec23210/artifacts
+end_time: 1749689752979
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 703b0348611c413d824dba003ec23210
+run_name: Light Gradient Boosting Machine
+run_uuid: 703b0348611c413d824dba003ec23210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749689752422
+status: 3
+tags: []
+user_id: User

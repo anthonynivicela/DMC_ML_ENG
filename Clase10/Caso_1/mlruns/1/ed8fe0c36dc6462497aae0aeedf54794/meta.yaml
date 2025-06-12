@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/ed8fe0c36dc6462497aae0aeedf54794/artifacts
+end_time: 1749519683259
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed8fe0c36dc6462497aae0aeedf54794
+run_name: K-Means Clustering
+run_uuid: ed8fe0c36dc6462497aae0aeedf54794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749519682812
+status: 3
+tags: []
+user_id: User

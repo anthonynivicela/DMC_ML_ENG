@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/2/2484540a70624df9a27baecb575a9e54/artifacts
+end_time: 1749692961413
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2484540a70624df9a27baecb575a9e54
+run_name: Elastic Net
+run_uuid: 2484540a70624df9a27baecb575a9e54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749692960618
+status: 3
+tags: []
+user_id: User

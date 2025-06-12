@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/5/5eca5de498524539b2646d65275ed1e5/artifacts
+end_time: 1749693860797
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 5eca5de498524539b2646d65275ed1e5
+run_name: Session Initialized d079
+run_uuid: 5eca5de498524539b2646d65275ed1e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749693802155
+status: 3
+tags: []
+user_id: User

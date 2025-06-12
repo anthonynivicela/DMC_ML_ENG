@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/3/442dcfe6c57147968b159c803303010f/artifacts
+end_time: 1749693007839
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 442dcfe6c57147968b159c803303010f
+run_name: Ridge Regression
+run_uuid: 442dcfe6c57147968b159c803303010f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749693007117
+status: 3
+tags: []
+user_id: User

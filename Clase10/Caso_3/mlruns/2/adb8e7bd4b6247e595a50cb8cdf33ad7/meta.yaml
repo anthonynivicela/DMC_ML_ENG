@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/2/adb8e7bd4b6247e595a50cb8cdf33ad7/artifacts
+end_time: 1749524854870
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: adb8e7bd4b6247e595a50cb8cdf33ad7
+run_name: Session Initialized ed60
+run_uuid: adb8e7bd4b6247e595a50cb8cdf33ad7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749524802774
+status: 3
+tags: []
+user_id: User

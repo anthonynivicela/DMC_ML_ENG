@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/2/cbc726bcc9744491b311388ad43cb995/artifacts
+end_time: 1749692735112
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: cbc726bcc9744491b311388ad43cb995
+run_name: AdaBoost Regressor
+run_uuid: cbc726bcc9744491b311388ad43cb995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749692734462
+status: 3
+tags: []
+user_id: User

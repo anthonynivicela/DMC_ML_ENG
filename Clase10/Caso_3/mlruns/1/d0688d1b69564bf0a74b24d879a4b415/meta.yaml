@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/d0688d1b69564bf0a74b24d879a4b415/artifacts
+end_time: 1749523426836
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d0688d1b69564bf0a74b24d879a4b415
+run_name: Ada Boost Classifier
+run_uuid: d0688d1b69564bf0a74b24d879a4b415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749523426504
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/2f79c8eac88f495dbc30b9915ae9d120/artifacts
+end_time: 1749523433343
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2f79c8eac88f495dbc30b9915ae9d120
+run_name: Dummy Classifier
+run_uuid: 2f79c8eac88f495dbc30b9915ae9d120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749523432782
+status: 3
+tags: []
+user_id: User

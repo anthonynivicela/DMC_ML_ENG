@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/4/49ac8620c2914d2098a478abcc46e0c3/artifacts
+end_time: 1749693095005
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 49ac8620c2914d2098a478abcc46e0c3
+run_name: Session Initialized 55c4
+run_uuid: 49ac8620c2914d2098a478abcc46e0c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749693040053
+status: 3
+tags: []
+user_id: User

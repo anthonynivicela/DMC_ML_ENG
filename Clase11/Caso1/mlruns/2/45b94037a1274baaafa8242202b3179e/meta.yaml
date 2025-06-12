@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/2/45b94037a1274baaafa8242202b3179e/artifacts
+end_time: 1749692727527
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 45b94037a1274baaafa8242202b3179e
+run_name: Bayesian Ridge
+run_uuid: 45b94037a1274baaafa8242202b3179e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749692726692
+status: 3
+tags: []
+user_id: User

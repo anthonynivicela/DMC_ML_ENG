@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/7cc32b693d92473d839a99d6012ab9c2/artifacts
+end_time: 1749523283903
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7cc32b693d92473d839a99d6012ab9c2
+run_name: Random Forest Classifier
+run_uuid: 7cc32b693d92473d839a99d6012ab9c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749523283316
+status: 3
+tags: []
+user_id: User

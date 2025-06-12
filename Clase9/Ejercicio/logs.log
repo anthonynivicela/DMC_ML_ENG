@@ -4222,3 +4222,31 @@ TypeError: Feature Importance and RFE plots not available for estimators that do
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
 2025-06-04 21:55:23,425:INFO:Initializing load_model()
 2025-06-04 21:55:23,425:INFO:load_model(model_name=modelo_finNova_mlflow, platform=None, authentication=None, verbose=True)
+2025-06-04 21:56:41,413:INFO:Initializing predict_model()
+2025-06-04 21:56:41,413:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002CCAE55B450>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'ingreso_mensual',
+                                             'usa_app', 'usa_web',
+                                             'satisfaccion', 'num_productos',
+                                             'reclamos_ult_6m',
+                                             'tasa_credito'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['cliente_id', 'genero',
+                                             'nivel_educacion', 'region'],
+                                    transformer=Sim...
+                ('onehot_encoding',
+                 TransformerWrapper(include=['nivel_educacion', 'region'],
+                                    transformer=OneHotEncoder(cols=['nivel_educacion',
+                                                                    'region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('rest_encoding',
+                 TransformerWrapper(include=['cliente_id'],
+                                    transformer=TargetEncoder(cols=['cliente_id'],
+                                                              handle_missing='return_nan'))),
+                ('trained_model', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002CC862600E0>)
+2025-06-04 21:56:41,413:INFO:Checking exceptions
+2025-06-04 21:56:41,413:INFO:Preloading libraries
+2025-06-04 21:56:41,415:INFO:Set up data.
+2025-06-04 21:56:41,426:INFO:Set up index.

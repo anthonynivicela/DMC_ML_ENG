@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/4/888f7f9322c2492e8156319746c4e525/artifacts
+end_time: 1749693082914
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 888f7f9322c2492e8156319746c4e525
+run_name: Passive Aggressive Regressor
+run_uuid: 888f7f9322c2492e8156319746c4e525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749693082264
+status: 3
+tags: []
+user_id: User

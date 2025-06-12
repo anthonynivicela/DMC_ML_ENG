@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/2/51ba251836124c69ac4fceb673a31f72/artifacts
+end_time: 1749524852254
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 51ba251836124c69ac4fceb673a31f72
+run_name: K Neighbors Regressor
+run_uuid: 51ba251836124c69ac4fceb673a31f72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749524851641
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/7d83570c79364d578d6e490b1cd3cb7c/artifacts
+end_time: 1749689752305
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7d83570c79364d578d6e490b1cd3cb7c
+run_name: Gradient Boosting Classifier
+run_uuid: 7d83570c79364d578d6e490b1cd3cb7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749689751797
+status: 3
+tags: []
+user_id: User

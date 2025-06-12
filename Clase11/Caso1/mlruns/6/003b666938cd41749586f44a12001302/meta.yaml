@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/6/003b666938cd41749586f44a12001302/artifacts
+end_time: 1749697747457
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 003b666938cd41749586f44a12001302
+run_name: Extra Trees Classifier
+run_uuid: 003b666938cd41749586f44a12001302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749697746951
+status: 3
+tags: []
+user_id: User

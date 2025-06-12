@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/6/f0ce6d0cbc1a4f81b2e4e9440176d20b/artifacts
+end_time: 1749697761976
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: f0ce6d0cbc1a4f81b2e4e9440176d20b
+run_name: Session Initialized f3ba
+run_uuid: f0ce6d0cbc1a4f81b2e4e9440176d20b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749697703762
+status: 3
+tags: []
+user_id: User
